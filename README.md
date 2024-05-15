@@ -1,6 +1,6 @@
 # hospital
 医疗小程序
-
+<img width="420" alt="image" src="https://github.com/YoungBanian/hospital/assets/29306119/601a0019-98fd-44e1-9f91-0bc7adfe04ac">
 
 ### 项目
 <ol>
